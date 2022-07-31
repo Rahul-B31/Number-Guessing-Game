@@ -1,0 +1,28 @@
+/* body{
+    background-color: rgb(154, 233, 233);
+/* } */
+/* #inputfiled{
+    width: 300px;
+    margin-left: 410px;
+}  */
+
+body{
+    background-color: rgb(65, 85, 90);
+}
+#section2{
+    display: none;
+}
+#section3{
+    display:none;
+}
+#score-text{
+   float:right;
+   width:90px;
+   margin-left:300px;
+   margin-bottom:300px;
+  
+   
+
+   
+
+}
